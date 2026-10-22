@@ -1,0 +1,17 @@
+{
+  "name": "web-tech",
+  "version": "1.0.0",
+  "description": "> **A College Web Technology (WT) Capstone Project**   > An integrated platform combining **Campus Facility Complaint Resolution & Maintenance Dispatch** with **Campus Resource Monitoring & Carbon Sustainability Accounting**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.3.0"
+  }
+}
